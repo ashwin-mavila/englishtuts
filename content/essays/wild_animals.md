@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: level2
 title: Essays
 permalink: /content/essays/wild_animals/
 ---

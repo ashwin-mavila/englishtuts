@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: level1
 title: Essays
 permalink: /content/essays/
 ---
